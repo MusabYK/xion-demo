@@ -1,1 +1,2 @@
 export const CONTRACT_ADDRESS = "xion1ugn6zska2mvza7zl9asvsma4ypjleffptdlc57xc8jsyg6k8lhtqpfgur5"
+export const TEASURY_ADDRESS = "xion1393qergk9ll0plhg67tun3ntct0uwhxrtmtpdn9gn99nugssc9qsy9nacf"
